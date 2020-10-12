@@ -26,5 +26,5 @@ Add the following javascript at the bottom of the html body
 |           Name           |                          Description                              |
 |--------------------------|-------------------------------------------------------------------|
 | elements_to_animate      | The selector element you are wanting to animate                   |
-| animation                | The animation you'd like to apply to the elements                 |
+| animation                | The animation class you'd like to apply to the elements           |
 
