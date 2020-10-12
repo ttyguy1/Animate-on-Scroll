@@ -1,5 +1,5 @@
 # Animate-on-Scroll
-### A simple solutions to add animation to an element when located further down the page.
+### A simple solutions to adding animation to an element open entering screen.
 
 The [animate.css](https://animate.style/) is a wonderful collections of animations which can be applied to any element to achieve a desired effect; however, there is just on small problem....the animations will trigger when the page is loaded even if the element is located further down the page and not visible in the current screen position.
 
